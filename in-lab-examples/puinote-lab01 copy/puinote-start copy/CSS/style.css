@@ -10,7 +10,7 @@ h1{
     font-size: 18 px; 
 }
 
-.product-block {
+.notecard {
 
     box-sizing: border-box;
     width: 450px;
@@ -26,7 +26,7 @@ h1{
   }
   
 
-.notecard-thumbnail{
+.thumbnail{
     border-radius: 8 px; 
     width: 70 px;
     height: 70 px; 
